@@ -25,6 +25,6 @@
 
 ## Social
 
-[![Instagram](https://img.shields.io/badge/@reisdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/higorgbrandao)
+[![Instagram](https://img.shields.io/badge/@higorgb18-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/higorgbrandao)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/higorgb18)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-brandao/)
