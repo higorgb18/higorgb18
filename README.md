@@ -1,6 +1,6 @@
 # Hi, I'm Higor! 
 
-<a href="https://rahulmahesh.me/"><img  align="center" src="https://media0.giphy.com/media/N0MHMlaq3t4ZBJ0F8W/giphy.gif?cid=790b76112b874a14642ca304b3e0833a5331f689d6304f18&rid=giphy.gif&ct=g" width="100px"></h1></a></p>
+<a href="https://rahulmahesh.me/"><img align="center" src="https://media0.giphy.com/media/N0MHMlaq3t4ZBJ0F8W/giphy.gif?cid=790b76112b874a14642ca304b3e0833a5331f689d6304f18&rid=giphy.gif&ct=g" width="100px"></h1></a></p>
 
 <a href="https://github.com/higorgb18">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=higorgb18&show_icons=true&theme=dracula">
