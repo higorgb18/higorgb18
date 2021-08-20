@@ -2,12 +2,25 @@
 
 <a href="https://rahulmahesh.me/"><img src="https://media0.giphy.com/media/N0MHMlaq3t4ZBJ0F8W/giphy.gif?cid=790b76112b874a14642ca304b3e0833a5331f689d6304f18&rid=giphy.gif&ct=g" width="100px"></h1></a></p>
 
+---
+
+## I'm a Computer Engineering Student  
+
+- 👨‍💻 I’m currently working on web development technologies in a junior company of my college like JavaScript, HTML, CSS, React.
+- 📚 I’m currently learning about Frontend technologies and UX/UI design.
+- 💪🏼 Future Goals: Learn more technologies and improve my programming skills.
+- ⚡ Fun fact: I'm an art enthusiast. In my free time I like to draw and make 3D art using Blender.
+
+---
+
 <a href="https://github.com/higorgb18">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=higorgb18&show_icons=true&theme=dracula">
 </a>
 <a href="https://github.com/higorgb18">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorgb18&layout=compact&theme=dracula">
 </a>
+
+---
 
 ## Languages, Frameworks and Tools
 
@@ -18,12 +31,16 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+---
+
 ## Design
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
 
 ## Social
 
