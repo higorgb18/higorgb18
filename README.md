@@ -50,5 +50,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/higorgb18)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-brandao/)
 
-<p align="left">O sucesso não tem a ver com quanto dinheiro você ganha, mas com a diferença que você faz na vida de outras pessoas.</p>
-<h5 align="left">Michelle Obama</h5>
+<h3 align="left">O sucesso não tem a ver com quanto dinheiro você ganha, mas com a diferença que você faz na vida de outras pessoas.</h3>
+<h2 align="left">Michelle Obama</h2>
