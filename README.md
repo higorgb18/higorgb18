@@ -42,7 +42,9 @@
 
 ---
 
-## Social
+## Feel free to contact me ⤵️
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 [![Instagram](https://img.shields.io/badge/@higorgb18-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/higorgbrandao)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/higorgb18)
