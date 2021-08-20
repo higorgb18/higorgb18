@@ -51,4 +51,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-brandao/)
 
 <h3 align="left">O sucesso não tem a ver com quanto dinheiro você ganha, mas com a diferença que você faz na vida de outras pessoas.</h3>
-<h2 align="left">Michelle Obama</h2>
+<h4 align="left">Michelle Obama</h4>
