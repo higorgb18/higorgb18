@@ -4,7 +4,7 @@
 
 ---
 
-## I'm a Computer Engineering Student  
+## I'm a Computer Engineering Student from Brazil
 
 - 👨‍💻 I’m currently working on web development technologies in a junior company of my college like JavaScript, HTML, CSS, React.
 - 📚 I’m currently learning about Frontend technologies and UX/UI design.
