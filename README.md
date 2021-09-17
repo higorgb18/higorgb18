@@ -7,7 +7,7 @@
 ## Sou um estudante de Engenharia de Computação pelo Instituto Federal Fluminense em Campos dos Goytacazes, RJ
 
 - 👨‍💻 Atuo em uma empresa júnior da minha faculdade com desenvolvimento em React.
-- 📚 Atualmente estou aprendendo sobre tecnologias frontende e UX/UI design.
+- 📚 Atualmente estou aprendendo sobre tecnologias frontend e UX/UI design.
 - 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
 - ⚡ Fun fact: Sou um entusiasta da arte. Gosto de desenhar no meu tempo livre, além de fazer artes 3D usando Blender.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Languages, Frameworks and Tools
+## Linguagens, Frameworks e Ferramentas
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
