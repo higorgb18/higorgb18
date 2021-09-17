@@ -4,7 +4,7 @@
 
 ---
 
-## Sou um estudante de Engenharia de Computação peko Instituto Federal Fluminense em Campos dos Goytacazes, RJ
+## Sou um estudante de Engenharia de Computação pelo Instituto Federal Fluminense em Campos dos Goytacazes, RJ
 
 - 👨‍💻 Atuo em uma empresa júnior da minha faculdade com desenvolvimento em React.
 - 📚 Atualmente estou aprendendo sobre tecnologias frontende e UX/UI design.
