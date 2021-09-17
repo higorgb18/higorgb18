@@ -1,15 +1,15 @@
-# Hi, I'm Higor! 
+# Alowww, me chamo Higor! 🤘
 
 <a href="https://rahulmahesh.me/"><img src="https://media0.giphy.com/media/N0MHMlaq3t4ZBJ0F8W/giphy.gif?cid=790b76112b874a14642ca304b3e0833a5331f689d6304f18&rid=giphy.gif&ct=g" width="100px"></h1></a></p>
 
 ---
 
-## I'm a Computer Engineering Student from Brazil
+## Sou um estudante de Engenharia de Computação peko Instituto Federal Fluminense em Campos dos Goytacazes, RJ
 
-- 👨‍💻 I’m currently working on web development technologies in a junior company of my college like JavaScript, HTML, CSS, React.
-- 📚 I’m currently learning about Frontend technologies and UX/UI design.
-- 💪🏼 Future Goals: Learn more technologies and improve my programming skills.
-- ⚡ Fun fact: I'm an art enthusiast. In my free time I like to draw and make 3D art using Blender.
+- 👨‍💻 Atuo em uma empresa júnior da minha faculdade com desenvolvimento em React.
+- 📚 Atualmente estou aprendendo sobre tecnologias frontende e UX/UI design.
+- 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
+- ⚡ Fun fact: Sou um entusiasta da arte. Gosto de desenhar no meu tempo livre, além de fazer artes 3D usando Blender.
 
 ---
 
@@ -42,9 +42,9 @@
 
 ---
 
-## Feel free to contact me ⤵️
+## Sinsta-se livre para entrar em contato ⤵️
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 [![Instagram](https://img.shields.io/badge/@higorgb18-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/higorgbrandao)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/higorgb18)
