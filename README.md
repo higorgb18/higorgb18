@@ -1,7 +1,5 @@
 # Olá, me chamo Higor!
 
----
-
 ## Sou um estudante de Engenharia de Computação pelo Instituto Federal Fluminense em Campos dos Goytacazes, RJ
 
 - 👨‍💻 Atuo em uma empresa júnior da minha faculdade com desenvolvimento em React.
