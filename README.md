@@ -1,11 +1,9 @@
 # Olá, me chamo Higor!
 
-## Sou um estudante de Engenharia de Computação pelo Instituto Federal Fluminense em Campos dos Goytacazes, RJ
+## Sou Analista de Sistemas Júnior onde atuo majoritariamente em desenvolvimento backend utilizando Java. Sou estudante de Engenharia de Computação pelo Instituto Federal Fluminense em Campos dos Goytacazes, RJ
 
 - 👨‍💻 Atuei em uma empresa júnior da minha faculdade com desenvolvimento em React.
-- 📚 Atualmente estou aprendendo sobre tecnologias frontend e UX/UI design.
-- 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
-- ⚡ Fun fact: Sou um entusiasta da arte. Gosto de desenhar no meu tempo livre, além de fazer artes 3D usando Blender.
+- 📚 
 
 ---
 
