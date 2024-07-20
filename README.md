@@ -1,9 +1,9 @@
 # Olá, me chamo Higor!
 
-## Sou Analista de Sistemas Júnior onde atuo majoritariamente em desenvolvimento backend utilizando Java. Sou estudante de Engenharia de Computação pelo Instituto Federal Fluminense em Campos dos Goytacazes, RJ
+## Analista de Sistemas Júnior | Engenharia de Computação - Instituto Federal Fluminense
 
 - 👨‍💻 Atuei em uma empresa júnior da minha faculdade com desenvolvimento em React.
-- 📚 
+- 📚 Atualmente trabalho com tecnologias em frameworks Spring no Java.
 
 ---
 
